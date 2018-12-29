@@ -2,8 +2,7 @@ import { Component, OnInit } from '@angular/core';
 import { IProduct } from './product';
 import { ProductService } from '../shared/product.service';
 
-@Component({
-    selector: "pm-products",
+@Component({    
     templateUrl: './product-list.component.html',
     styleUrls: ['./product-list.component.css']
     //,providers: [ProductService] - component service reigstration, service is only available to this and child components
