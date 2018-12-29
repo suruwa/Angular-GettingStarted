@@ -33,4 +33,4 @@ two way binding: < input [(ngModel)]='costam'>
 
 komponent rodzic przekazuje dane do komponentu dziecka za pomocą properties
 komponent dziecko przekazuje informacje do rodzica za pomocą eventów
-WIĘCEJ O KOMUNIKACJI MIĘDZY KOMPONENTAMI!!!
+WIĘCEJ O KOMUNIKACJI MIĘDZY KOMPONENTAMI!!! (Pluralsight - Angular Component Communication?)
